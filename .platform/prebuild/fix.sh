@@ -1,1 +1,0 @@
-sudo yum install gcc72-c++
