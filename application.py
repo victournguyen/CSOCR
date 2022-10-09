@@ -4,7 +4,8 @@ Authors: Victor Nguyen, Harry Liu
 
 This program uses Dash and Materialize (CSS) to show a webpage where users can
 upload one or more images that have text. The application will extract the text
-from the images and display the images along with their extracted text.
+from the images and display the images along with their extracted text in
+addition to ordering them sequentially.
 
 Dash is a Python library created by Plotly which uses React.js and Plotly.js to
 make a Flask application. Materialize is a front-end framework developed by
