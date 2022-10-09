@@ -175,6 +175,6 @@ def upload(contents, names):
 #---------------------------------Program Run----------------------------------#
 if __name__ == '__main__':
     # For running locally
-    app.run_server(port=8080, debug=True)
+    # app.run_server(port=8080, debug=True)
     # For deployment
-    # application.run(port=8080)
+    application.run(port=8080)
