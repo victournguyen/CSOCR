@@ -1,4 +1,4 @@
-# CSOCR
+# Comic Strip Optical Character Recognition (CSOCR)
 This program uses Dash and Materialize (CSS) to show a webpage where users can
 upload one or more images that have text. The application will extract the text
 from the images and display the images along with their extracted text in
