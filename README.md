@@ -15,3 +15,5 @@ segments, the segments are fed through Google's Word2Vec model and ordered by
 the Word Mover's Distance. This works by comparing the word encodings of the
 segments found in the pre-trained model. Overall, the HTML elements are
 dynamically generated and ordered to be inserted into the application's layout.
+
+![](home.png)
