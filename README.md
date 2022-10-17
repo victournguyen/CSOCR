@@ -17,3 +17,7 @@ segments found in the pre-trained model. Overall, the HTML elements are
 dynamically generated and ordered to be inserted into the application's layout.
 
 ![](home.png)
+
+CSOCR was created as part of the TAMU Datathon 2022 - CBRE Get in Line
+Challenge. It won 2<sup>nd</sup> place, and the submission can be viewed on
+[Devpost](https://devpost.com/software/comic-strip-optical-character-recognition-csocr).
